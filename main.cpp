@@ -3,5 +3,6 @@
 
 int main(int argc, char *argv[])
 {
+	printf("github test !\n");
 	return 0;	
 }
